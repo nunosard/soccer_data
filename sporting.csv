@@ -1,0 +1,249 @@
+season,date,home_team,away_team,home_team_goal,away_team_goal
+2008/2009,2008-08-23 00:00:00,Sporting CP,Trofense,3,1
+2008/2009,2008-09-01 00:00:00,SC Braga,Sporting CP,0,1
+2008/2009,2008-09-20 00:00:00,Sporting CP,CF Os Belenenses,2,0
+2008/2009,2008-09-27 00:00:00,SL Benfica,Sporting CP,2,0
+2008/2009,2008-10-05 00:00:00,Sporting CP,FC Porto,1,2
+2008/2009,2008-10-26 00:00:00,FC Paços de Ferreira,Sporting CP,0,0
+2008/2009,2008-11-01 00:00:00,Rio Ave FC,Sporting CP,0,1
+2008/2009,2008-11-15 00:00:00,Sporting CP,Leixões SC,0,1
+2008/2009,2008-11-22 00:00:00,Naval 1° de Maio,Sporting CP,0,1
+2008/2009,2008-11-30 00:00:00,Sporting CP,Vitória Guimarães,2,0
+2008/2009,2008-12-05 00:00:00,Amadora,Sporting CP,1,3
+2008/2009,2008-12-20 00:00:00,Sporting CP,Académica de Coimbra,0,0
+2008/2009,2009-01-03 00:00:00,Vitória Setúbal,Sporting CP,0,2
+2008/2009,2009-01-10 00:00:00,Sporting CP,CS Marítimo,2,0
+2008/2009,2009-01-24 00:00:00,CD Nacional,Sporting CP,1,1
+2008/2009,2009-01-31 00:00:00,Trofense,Sporting CP,0,0
+2008/2009,2009-02-08 00:00:00,Sporting CP,SC Braga,2,3
+2008/2009,2009-02-14 00:00:00,CF Os Belenenses,Sporting CP,1,2
+2008/2009,2009-02-21 00:00:00,Sporting CP,SL Benfica,3,2
+2008/2009,2009-02-28 00:00:00,FC Porto,Sporting CP,0,0
+2008/2009,2009-03-07 00:00:00,Sporting CP,FC Paços de Ferreira,2,0
+2008/2009,2009-03-14 00:00:00,Sporting CP,Rio Ave FC,2,0
+2008/2009,2009-04-05 00:00:00,Leixões SC,Sporting CP,0,1
+2008/2009,2009-04-11 00:00:00,Sporting CP,Naval 1° de Maio,3,1
+2008/2009,2009-04-18 00:00:00,Vitória Guimarães,Sporting CP,1,2
+2008/2009,2009-04-25 00:00:00,Sporting CP,Amadora,2,1
+2008/2009,2009-05-02 00:00:00,Académica de Coimbra,Sporting CP,0,0
+2008/2009,2009-05-09 00:00:00,Sporting CP,Vitória Setúbal,2,1
+2008/2009,2009-05-16 00:00:00,CS Marítimo,Sporting CP,1,2
+2008/2009,2009-05-24 00:00:00,Sporting CP,CD Nacional,3,1
+2009/2010,2009-08-15 00:00:00,CD Nacional,Sporting CP,1,1
+2009/2010,2009-08-22 00:00:00,Sporting CP,SC Braga,1,2
+2009/2010,2009-08-30 00:00:00,Académica de Coimbra,Sporting CP,0,2
+2009/2010,2009-09-13 00:00:00,Sporting CP,FC Paços de Ferreira,1,0
+2009/2010,2009-09-21 00:00:00,Sporting CP,S.C. Olhanense,3,2
+2009/2010,2009-09-26 00:00:00,FC Porto,Sporting CP,1,0
+2009/2010,2009-10-04 00:00:00,Sporting CP,CF Os Belenenses,0,0
+2009/2010,2009-10-27 00:00:00,Vitória Guimarães,Sporting CP,1,1
+2009/2010,2009-11-01 00:00:00,Sporting CP,CS Marítimo,1,1
+2009/2010,2009-11-08 00:00:00,Rio Ave FC,Sporting CP,2,2
+2009/2010,2009-11-28 00:00:00,Sporting CP,SL Benfica,0,0
+2009/2010,2009-12-07 00:00:00,Vitória Setúbal,Sporting CP,0,2
+2009/2010,2009-12-12 00:00:00,Sporting CP,"União de Leiria, SAD",0,1
+2009/2010,2009-12-19 00:00:00,Naval 1° de Maio,Sporting CP,0,1
+2009/2010,2010-01-09 00:00:00,Sporting CP,Leixões SC,1,0
+2009/2010,2010-01-16 00:00:00,Sporting CP,CD Nacional,3,2
+2009/2010,2010-01-29 00:00:00,SC Braga,Sporting CP,1,0
+2009/2010,2010-02-06 00:00:00,Sporting CP,Académica de Coimbra,1,2
+2009/2010,2010-02-12 00:00:00,FC Paços de Ferreira,Sporting CP,0,0
+2009/2010,2010-02-20 00:00:00,S.C. Olhanense,Sporting CP,0,0
+2009/2010,2010-02-28 00:00:00,Sporting CP,FC Porto,3,0
+2009/2010,2010-03-07 00:00:00,CF Os Belenenses,Sporting CP,0,4
+2009/2010,2010-03-14 00:00:00,Sporting CP,Vitória Guimarães,3,1
+2009/2010,2010-03-26 00:00:00,CS Marítimo,Sporting CP,3,2
+2009/2010,2010-04-02 00:00:00,Sporting CP,Rio Ave FC,5,0
+2009/2010,2010-04-13 00:00:00,SL Benfica,Sporting CP,2,0
+2009/2010,2010-04-19 00:00:00,Sporting CP,Vitória Setúbal,2,1
+2009/2010,2010-04-25 00:00:00,"União de Leiria, SAD",Sporting CP,1,1
+2009/2010,2010-05-02 00:00:00,Sporting CP,Naval 1° de Maio,0,1
+2009/2010,2010-05-08 00:00:00,Leixões SC,Sporting CP,1,2
+2010/2011,2010-08-14 00:00:00,FC Paços de Ferreira,Sporting CP,1,0
+2010/2011,2010-08-22 00:00:00,Sporting CP,CS Marítimo,1,0
+2010/2011,2010-08-30 00:00:00,Naval 1° de Maio,Sporting CP,1,3
+2010/2011,2010-09-11 00:00:00,Sporting CP,S.C. Olhanense,0,0
+2010/2011,2010-09-19 00:00:00,SL Benfica,Sporting CP,2,0
+2010/2011,2010-09-26 00:00:00,Sporting CP,CD Nacional,1,1
+2010/2011,2010-10-04 00:00:00,SC Beira Mar,Sporting CP,1,1
+2010/2011,2010-10-24 00:00:00,Sporting CP,Rio Ave FC,1,0
+2010/2011,2010-10-31 00:00:00,"União de Leiria, SAD",Sporting CP,1,2
+2010/2011,2010-11-08 00:00:00,Sporting CP,Vitória Guimarães,2,3
+2010/2011,2010-11-13 00:00:00,Académica de Coimbra,Sporting CP,1,2
+2010/2011,2010-11-27 00:00:00,Sporting CP,FC Porto,1,1
+2010/2011,2010-12-05 00:00:00,Portimonense,Sporting CP,1,3
+2010/2011,2010-12-20 00:00:00,Vitória Setúbal,Sporting CP,0,3
+2010/2011,2011-01-08 00:00:00,Sporting CP,SC Braga,2,1
+2010/2011,2011-01-15 00:00:00,Sporting CP,FC Paços de Ferreira,2,3
+2010/2011,2011-01-24 00:00:00,CS Marítimo,Sporting CP,0,3
+2010/2011,2011-02-04 00:00:00,Sporting CP,Naval 1° de Maio,3,3
+2010/2011,2011-02-12 00:00:00,S.C. Olhanense,Sporting CP,2,2
+2010/2011,2011-02-21 00:00:00,Sporting CP,SL Benfica,0,2
+2010/2011,2011-02-27 00:00:00,CD Nacional,Sporting CP,1,0
+2010/2011,2011-03-06 00:00:00,Sporting CP,SC Beira Mar,1,0
+2010/2011,2011-03-12 00:00:00,Rio Ave FC,Sporting CP,0,0
+2010/2011,2011-03-19 00:00:00,Sporting CP,"União de Leiria, SAD",0,0
+2010/2011,2011-04-03 00:00:00,Vitória Guimarães,Sporting CP,1,1
+2010/2011,2011-04-09 00:00:00,Sporting CP,Académica de Coimbra,2,0
+2010/2011,2011-04-17 00:00:00,FC Porto,Sporting CP,3,2
+2010/2011,2011-04-30 00:00:00,Sporting CP,Portimonense,2,1
+2010/2011,2011-05-08 00:00:00,Sporting CP,Vitória Setúbal,0,1
+2010/2011,2011-05-14 00:00:00,SC Braga,Sporting CP,0,1
+2011/2012,2011-08-13 00:00:00,Sporting CP,S.C. Olhanense,1,1
+2011/2012,2011-08-21 00:00:00,SC Beira Mar,Sporting CP,0,0
+2011/2012,2011-08-28 00:00:00,Sporting CP,CS Marítimo,2,3
+2011/2012,2011-09-10 00:00:00,FC Paços de Ferreira,Sporting CP,2,3
+2011/2012,2011-09-19 00:00:00,Rio Ave FC,Sporting CP,2,3
+2011/2012,2011-09-24 00:00:00,Sporting CP,Vitória Setúbal,3,0
+2011/2012,2011-10-02 00:00:00,Vitória Guimarães,Sporting CP,0,1
+2011/2012,2011-10-24 00:00:00,Sporting CP,Gil Vicente FC,6,1
+2011/2012,2011-10-30 00:00:00,Feirense,Sporting CP,0,2
+2011/2012,2011-11-06 00:00:00,Sporting CP,"União de Leiria, SAD",3,1
+2011/2012,2011-11-26 00:00:00,SL Benfica,Sporting CP,1,0
+2011/2012,2011-12-10 00:00:00,Sporting CP,CD Nacional,1,0
+2011/2012,2011-12-18 00:00:00,Académica de Coimbra,Sporting CP,1,1
+2011/2012,2012-01-07 00:00:00,Sporting CP,FC Porto,0,0
+2011/2012,2012-01-15 00:00:00,SC Braga,Sporting CP,2,1
+2011/2012,2012-01-23 00:00:00,S.C. Olhanense,Sporting CP,0,0
+2011/2012,2012-01-29 00:00:00,Sporting CP,SC Beira Mar,2,0
+2011/2012,2012-02-11 00:00:00,CS Marítimo,Sporting CP,2,0
+2011/2012,2012-02-19 00:00:00,Sporting CP,FC Paços de Ferreira,1,0
+2011/2012,2012-02-26 00:00:00,Sporting CP,Rio Ave FC,1,0
+2011/2012,2012-03-03 00:00:00,Vitória Setúbal,Sporting CP,1,0
+2011/2012,2012-03-11 00:00:00,Sporting CP,Vitória Guimarães,5,0
+2011/2012,2012-03-19 00:00:00,Gil Vicente FC,Sporting CP,2,0
+2011/2012,2012-03-24 00:00:00,Sporting CP,Feirense,1,0
+2011/2012,2012-04-01 00:00:00,"União de Leiria, SAD",Sporting CP,0,1
+2011/2012,2012-04-09 00:00:00,Sporting CP,SL Benfica,1,0
+2011/2012,2012-04-22 00:00:00,CD Nacional,Sporting CP,2,3
+2011/2012,2012-04-30 00:00:00,Sporting CP,Académica de Coimbra,2,1
+2011/2012,2012-05-05 00:00:00,FC Porto,Sporting CP,2,0
+2011/2012,2012-05-12 00:00:00,Sporting CP,SC Braga,3,2
+2012/2013,2012-08-19 00:00:00,Vitória Guimarães,Sporting CP,0,0
+2012/2013,2012-08-27 00:00:00,Sporting CP,Rio Ave FC,0,1
+2012/2013,2012-09-16 00:00:00,CS Marítimo,Sporting CP,1,1
+2012/2013,2012-09-24 00:00:00,Sporting CP,Gil Vicente FC,2,1
+2012/2013,2012-09-29 00:00:00,Sporting CP,Estoril Praia,2,2
+2012/2013,2012-10-07 00:00:00,FC Porto,Sporting CP,2,0
+2012/2013,2012-10-29 00:00:00,Sporting CP,Académica de Coimbra,0,0
+2012/2013,2012-11-04 00:00:00,Vitória Setúbal,Sporting CP,2,1
+2012/2013,2012-11-11 00:00:00,Sporting CP,SC Braga,1,0
+2012/2013,2012-11-26 00:00:00,Moreirense FC,Sporting CP,2,2
+2012/2013,2012-12-10 00:00:00,Sporting CP,SL Benfica,1,3
+2012/2013,2012-12-15 00:00:00,CD Nacional,Sporting CP,1,1
+2012/2013,2013-01-05 00:00:00,Sporting CP,FC Paços de Ferreira,0,1
+2012/2013,2013-01-13 00:00:00,S.C. Olhanense,Sporting CP,0,2
+2012/2013,2013-01-18 00:00:00,Sporting CP,SC Beira Mar,1,0
+2012/2013,2013-01-27 00:00:00,Sporting CP,Vitória Guimarães,1,1
+2012/2013,2013-02-02 00:00:00,Rio Ave FC,Sporting CP,2,1
+2012/2013,2013-02-10 00:00:00,Sporting CP,CS Marítimo,0,1
+2012/2013,2013-02-16 00:00:00,Gil Vicente FC,Sporting CP,2,3
+2012/2013,2013-02-22 00:00:00,Estoril Praia,Sporting CP,3,1
+2012/2013,2013-03-02 00:00:00,Sporting CP,FC Porto,0,0
+2012/2013,2013-03-09 00:00:00,Académica de Coimbra,Sporting CP,1,1
+2012/2013,2013-03-16 00:00:00,Sporting CP,Vitória Setúbal,2,1
+2012/2013,2013-04-01 00:00:00,SC Braga,Sporting CP,2,3
+2012/2013,2013-04-06 00:00:00,Sporting CP,Moreirense FC,3,2
+2012/2013,2013-04-21 00:00:00,SL Benfica,Sporting CP,2,0
+2012/2013,2013-04-28 00:00:00,Sporting CP,CD Nacional,2,1
+2012/2013,2013-05-05 00:00:00,FC Paços de Ferreira,Sporting CP,1,0
+2012/2013,2013-05-11 00:00:00,Sporting CP,S.C. Olhanense,1,0
+2012/2013,2013-05-19 00:00:00,SC Beira Mar,Sporting CP,1,4
+2013/2014,2013-08-18 00:00:00,Sporting CP,FC Arouca,5,1
+2013/2014,2013-08-24 00:00:00,Académica de Coimbra,Sporting CP,0,4
+2013/2014,2013-08-31 00:00:00,Sporting CP,SL Benfica,1,1
+2013/2014,2013-09-15 00:00:00,S.C. Olhanense,Sporting CP,0,2
+2013/2014,2013-09-21 00:00:00,Sporting CP,Rio Ave FC,1,1
+2013/2014,2013-09-28 00:00:00,SC Braga,Sporting CP,1,2
+2013/2014,2013-10-05 00:00:00,Sporting CP,Vitória Setúbal,4,0
+2013/2014,2013-10-27 00:00:00,FC Porto,Sporting CP,3,1
+2013/2014,2013-11-02 00:00:00,Sporting CP,CS Marítimo,3,2
+2013/2014,2013-11-24 00:00:00,Vitória Guimarães,Sporting CP,0,1
+2013/2014,2013-12-01 00:00:00,Sporting CP,FC Paços de Ferreira,4,0
+2013/2014,2013-12-08 00:00:00,Gil Vicente FC,Sporting CP,0,2
+2013/2014,2013-12-14 00:00:00,Sporting CP,CF Os Belenenses,3,0
+2013/2014,2013-12-21 00:00:00,Sporting CP,CD Nacional,0,0
+2013/2014,2014-01-11 00:00:00,Estoril Praia,Sporting CP,0,0
+2013/2014,2014-01-18 00:00:00,FC Arouca,Sporting CP,1,2
+2013/2014,2014-02-02 00:00:00,Sporting CP,Académica de Coimbra,0,0
+2013/2014,2014-02-11 00:00:00,SL Benfica,Sporting CP,2,0
+2013/2014,2014-02-15 00:00:00,Sporting CP,S.C. Olhanense,1,0
+2013/2014,2014-02-22 00:00:00,Rio Ave FC,Sporting CP,1,2
+2013/2014,2014-03-01 00:00:00,Sporting CP,SC Braga,2,1
+2013/2014,2014-03-09 00:00:00,Vitória Setúbal,Sporting CP,2,2
+2013/2014,2014-03-16 00:00:00,Sporting CP,FC Porto,1,0
+2013/2014,2014-03-22 00:00:00,CS Marítimo,Sporting CP,1,3
+2013/2014,2014-03-29 00:00:00,Sporting CP,Vitória Guimarães,1,0
+2013/2014,2014-04-05 00:00:00,FC Paços de Ferreira,Sporting CP,1,3
+2013/2014,2014-04-12 00:00:00,Sporting CP,Gil Vicente FC,2,0
+2013/2014,2014-04-19 00:00:00,CF Os Belenenses,Sporting CP,0,1
+2013/2014,2014-05-03 00:00:00,CD Nacional,Sporting CP,1,1
+2013/2014,2014-05-11 00:00:00,Sporting CP,Estoril Praia,0,1
+2014/2015,2014-08-16 00:00:00,Académica de Coimbra,Sporting CP,1,1
+2014/2015,2014-08-23 00:00:00,Sporting CP,FC Arouca,1,0
+2014/2015,2014-08-31 00:00:00,SL Benfica,Sporting CP,1,1
+2014/2015,2014-09-13 00:00:00,Sporting CP,CF Os Belenenses,1,1
+2014/2015,2014-09-21 00:00:00,Gil Vicente FC,Sporting CP,0,4
+2014/2015,2014-09-26 00:00:00,Sporting CP,FC Porto,1,1
+2014/2015,2014-10-04 00:00:00,FC Penafiel,Sporting CP,0,4
+2014/2015,2014-10-26 00:00:00,Sporting CP,CS Marítimo,4,2
+2014/2015,2014-11-01 00:00:00,Vitória Guimarães,Sporting CP,3,0
+2014/2015,2014-11-09 00:00:00,Sporting CP,FC Paços de Ferreira,1,1
+2014/2015,2014-11-29 00:00:00,Sporting CP,Vitória Setúbal,3,0
+2014/2015,2014-12-05 00:00:00,Boavista FC,Sporting CP,1,3
+2014/2015,2014-12-14 00:00:00,Sporting CP,Moreirense FC,1,1
+2014/2015,2014-12-21 00:00:00,CD Nacional,Sporting CP,0,1
+2014/2015,2015-01-03 00:00:00,Sporting CP,Estoril Praia,3,0
+2014/2015,2015-01-11 00:00:00,SC Braga,Sporting CP,0,1
+2014/2015,2015-01-18 00:00:00,Sporting CP,Rio Ave FC,4,2
+2014/2015,2015-01-25 00:00:00,Sporting CP,Académica de Coimbra,1,0
+2014/2015,2015-02-01 00:00:00,FC Arouca,Sporting CP,1,3
+2014/2015,2015-02-08 00:00:00,Sporting CP,SL Benfica,1,1
+2014/2015,2015-02-14 00:00:00,CF Os Belenenses,Sporting CP,1,1
+2014/2015,2015-02-22 00:00:00,Sporting CP,Gil Vicente FC,2,0
+2014/2015,2015-03-01 00:00:00,FC Porto,Sporting CP,3,0
+2014/2015,2015-03-09 00:00:00,Sporting CP,FC Penafiel,3,2
+2014/2015,2015-03-15 00:00:00,CS Marítimo,Sporting CP,0,1
+2014/2015,2015-03-22 00:00:00,Sporting CP,Vitória Guimarães,4,1
+2014/2015,2015-04-04 00:00:00,FC Paços de Ferreira,Sporting CP,1,1
+2014/2015,2015-04-12 00:00:00,Vitória Setúbal,Sporting CP,1,2
+2014/2015,2015-04-19 00:00:00,Sporting CP,Boavista FC,2,1
+2014/2015,2015-04-27 00:00:00,Moreirense FC,Sporting CP,1,4
+2014/2015,2015-05-02 00:00:00,Sporting CP,CD Nacional,2,0
+2014/2015,2015-05-10 00:00:00,Estoril Praia,Sporting CP,1,1
+2014/2015,2015-05-17 00:00:00,Sporting CP,SC Braga,4,1
+2014/2015,2015-05-23 00:00:00,Rio Ave FC,Sporting CP,0,1
+2015/2016,2015-08-14 00:00:00,Tondela,Sporting CP,1,2
+2015/2016,2015-08-22 00:00:00,Sporting CP,FC Paços de Ferreira,1,1
+2015/2016,2015-08-30 00:00:00,Académica de Coimbra,Sporting CP,1,3
+2015/2016,2015-09-13 00:00:00,Rio Ave FC,Sporting CP,1,2
+2015/2016,2015-09-21 00:00:00,Sporting CP,CD Nacional,1,0
+2015/2016,2015-09-26 00:00:00,Boavista FC,Sporting CP,0,0
+2015/2016,2015-10-04 00:00:00,Sporting CP,Vitória Guimarães,5,1
+2015/2016,2015-10-25 00:00:00,SL Benfica,Sporting CP,0,3
+2015/2016,2015-10-31 00:00:00,Sporting CP,Estoril Praia,1,0
+2015/2016,2015-11-08 00:00:00,FC Arouca,Sporting CP,0,1
+2015/2016,2015-11-30 00:00:00,Sporting CP,CF Os Belenenses,1,0
+2015/2016,2015-12-05 00:00:00,CS Marítimo,Sporting CP,0,1
+2015/2016,2015-12-13 00:00:00,Sporting CP,Moreirense FC,3,1
+2015/2016,2015-12-20 00:00:00,Uniao da Madeira,Sporting CP,1,0
+2015/2016,2016-01-02 00:00:00,Sporting CP,FC Porto,2,0
+2015/2016,2016-01-06 00:00:00,Vitória Setúbal,Sporting CP,0,6
+2015/2016,2016-01-10 00:00:00,Sporting CP,SC Braga,3,2
+2015/2016,2016-01-15 00:00:00,Sporting CP,Tondela,2,2
+2015/2016,2016-01-23 00:00:00,FC Paços de Ferreira,Sporting CP,1,3
+2015/2016,2016-01-30 00:00:00,Sporting CP,Académica de Coimbra,3,2
+2015/2016,2016-02-08 00:00:00,Sporting CP,Rio Ave FC,0,0
+2015/2016,2016-02-13 00:00:00,CD Nacional,Sporting CP,0,4
+2015/2016,2016-02-22 00:00:00,Sporting CP,Boavista FC,2,0
+2015/2016,2016-02-29 00:00:00,Vitória Guimarães,Sporting CP,0,0
+2015/2016,2016-03-05 00:00:00,Sporting CP,SL Benfica,0,1
+2015/2016,2016-03-12 00:00:00,Estoril Praia,Sporting CP,1,2
+2015/2016,2016-03-19 00:00:00,Sporting CP,FC Arouca,5,1
+2015/2016,2016-04-04 00:00:00,CF Os Belenenses,Sporting CP,2,5
+2015/2016,2016-04-09 00:00:00,Sporting CP,CS Marítimo,3,1
+2015/2016,2016-04-16 00:00:00,Moreirense FC,Sporting CP,0,1
+2015/2016,2016-04-23 00:00:00,Sporting CP,Uniao da Madeira,2,0
+2015/2016,2016-04-30 00:00:00,FC Porto,Sporting CP,1,3
+2015/2016,2016-05-07 00:00:00,Sporting CP,Vitória Setúbal,5,0
+2015/2016,2016-05-15 00:00:00,SC Braga,Sporting CP,0,4
